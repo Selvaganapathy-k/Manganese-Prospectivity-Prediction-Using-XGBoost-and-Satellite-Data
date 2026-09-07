@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Model files
+*.pkl
+*.joblib
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Generated outputs
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.html
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
